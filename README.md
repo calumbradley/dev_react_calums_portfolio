@@ -2,7 +2,7 @@
 
 ## About
 
-A portfolio and online resume for Calum Bradley
+A portfolio and resume for Calum Bradley
 
 ## Particle library
 This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg).
