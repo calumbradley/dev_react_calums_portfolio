@@ -16,7 +16,7 @@
       "zip": "CW11"
     },
     "website": "http://www.calumbradley.com",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "",
     "social": [
       {
         "name": "twitter",
@@ -25,17 +25,17 @@
       },
       {
         "name": "linkedin",
-        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url": "",
         "className": "fa fa-linkedin"
       },
       {
         "name": "instagram",
-        "url": "http://instagram.com/tbaker_x",
+        "url": "",
         "className": "fa fa-instagram"
       },
       {
         "name": "github",
-        "url": "https://github.com/nordicgiant2/react-nice-resume",
+        "url": "",
         "className": "fa fa-github"
       }
     ]
@@ -44,7 +44,7 @@
     "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
     "education": [
       {
-        "school": "Mid Cheshire College",
+        "school": "Mid Cheshire College, Crewe",
         "degree": "Business Administration NVQ",
         "graduated": "Jul 2010 - May 2011"
       },
