@@ -12,6 +12,11 @@ This project forks from [https://github.com/tbakerx/react-resume-template](https
 
 # Run Project
 ### 1. Clone the project
+
+```shell
+git clone [https://github.com/calumbradley/calums_portfolio](https://github.com/calumbradley/calums_portfolio)
+```
+
 ### 2. Run the project
 ```shell
 npm i
