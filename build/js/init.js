@@ -1,5 +1,5 @@
 jQuery(document).ready(function($) {
-  var time = 380;
+  var time = 3;
   setTimeout(function() {
     $("h1.responsive-headline").fitText(1, { minFontSize: "40px", maxFontSize: "90px" });
 
@@ -75,7 +75,7 @@ jQuery(document).ready(function($) {
     });
 
     $("form#contactForm button.submit").click(function(event) {
-      $("#image-loader").fadeIn();
+      // $("#image-loader").fadeIn();
       // event.preventDefault();
 
       var contactName = $("#contactForm #contactName").val();
