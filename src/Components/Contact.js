@@ -32,7 +32,7 @@ class Contact extends Component {
         <div className="row">
           <Slide left duration={1000}>
             <div className="eight columns">
-              <form id="contactForm" name="contactForm">
+              <form id="contactForm" name="contactForm" method="post">
                 <fieldset>
                   <div>
                     <label htmlFor="contactName">
