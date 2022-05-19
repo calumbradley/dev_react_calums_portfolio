@@ -1,8 +1,24 @@
-# Resume
 
-## About
+# Hi, I'm Calum! 👋
 
-A portfolio and resume for Calum Bradley
+### Calum's Portfolio project
+
+A personal resume portfolio website for Calum Bradley to tell the world about his programming skills, the current site uses React, Node Js on the back end, and AWS Ubuntu linux infrastructure, with Route 53 and EC2.
+
+## Authors
+
+- [@calumbradley](https://www.github.com/calumbradley)
+
+
+## Roadmap
+
+- HTTPS support
+- Add AWS to skills
+
+
+## License
+
+[MIT](https://choosealicense.com/licenses/mit/)
 
 ## Particle library
 This project uses the react particle background component library [https://github.com/lindelof/particles-bg](https://github.com/lindelof/particles-bg).
