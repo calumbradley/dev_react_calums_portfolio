@@ -9,7 +9,7 @@ class Contact extends Component {
     // const street = this.props.data.address.street
     const city = this.props.data.address.city
     const state = this.props.data.address.state
-    const zip = this.props.data.address.zip
+    // const zip = this.props.data.address.zip
     // const phone = this.props.data.phone
     // const message = this.props.data.contactmessage
 
@@ -107,9 +107,11 @@ class Contact extends Component {
                 <p className="address">
                   {name}
                   <br />
-                  {city}, {state}, 
+                  {city},
                   <br />
-                  {zip}
+                  {state},
+                  <br />
+                  United Kingdom
                   {/* <span>{phone}</span> */}
                 </p>
               </div>
