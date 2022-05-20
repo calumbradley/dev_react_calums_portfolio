@@ -11,7 +11,7 @@ class Contact extends Component {
     const state = this.props.data.address.state
     // const zip = this.props.data.address.zip
     // const phone = this.props.data.phone
-    // const message = this.props.data.contactmessage
+    const message = this.props.data.contactmessage
 
     return (
       <section id="contact">
@@ -24,7 +24,7 @@ class Contact extends Component {
             </div>
 
             <div className="ten columns">
-              <p className="lead"></p>
+              <p className="lead">{message}</p>
             </div>
           </div>
         </Fade>
@@ -94,7 +94,8 @@ class Contact extends Component {
 
               <div id="message-warning"> Error boy</div>
               <div id="message-success">
-                <i className="fa fa-check"></i>Your message has been sent, thank you!
+                <i className="fa fa-check"></i>Your message has been sent, thank
+                you!
                 <br />
               </div>
             </div>
