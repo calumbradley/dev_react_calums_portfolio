@@ -3,7 +3,7 @@
     "name": "Calum Bradley",
     "description": "Web development engineer skilled in React and Node JS.",
     "image": "profile_pic.jpg",
-    "bio": "Experienced developer with a history of working in the financial services industry, skilled in RBDMS including the management of enterprise scale data driven applications and ETL's using .NET",
+    "bio": "Experienced developer with a history of working in the financial services industry. Skilled in full-stack development and RDBMS including the management of enterprise-scale data-driven applications and ETLs using .NET.",
     "contactmessage": "Lets stay in touch, feel free to contact me below",
     "email": "calum@calumbradley.com",
     "phone": "",
@@ -104,7 +104,7 @@
       },
       {
         "name": "c#",
-        "level": "40%"
+        "level": "55%"
       }
     ]
   },
