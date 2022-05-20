@@ -38,7 +38,9 @@ class About extends Component {
                     <span>{name}</span>
                     <br />
                     <span>
-                      {city}, {state}
+                      {city}, {state},
+                      <br />
+                      United Kingdom
                     </span>
                     <br />
                     {/* <span>{phone}</span> */}
